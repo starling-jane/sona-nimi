@@ -1,0 +1,104 @@
+\documentclass[a4paper,11pt]{book}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+%\usepackage{expl3}
+%\expandafter\def\csname ver@l3regex.sty\endcsname{}
+
+\newenvironment{definition}[2]{ % word, category
+  %\begin{minipage}{\dimexpr\textwidth}
+  \begin{description}
+  %\item[#1] \textit{(#2)}:
+  \item
+    {\huge \textbf{#1}}
+    {\Large \textit{(#2)}} \\
+}{
+  \end{description}%
+  %\end{minipage}%
+}
+
+\newenvironment{example}{ % put example sentences in here
+  \item
+  \textbf{nimi lon toki:}
+  
+  \hfill
+  \begin{minipage}{\dimexpr\textwidth-1cm}
+  %\begin{quote}
+  \begin{itshape}
+}
+{
+  \end{itshape}
+  \end{minipage}
+  %\end{quote}
+}
+
+\newcommand{\inex}[1]{% use this to format the word when it appears in example sentences
+  \textbf{#1}%
+}
+
+\title{sona nimi}
+\author{jan Salinsen}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\chapter{nimi pu}
+
+\begin{definition}{a}{nimi lili}
+  nimi \inex{a} li pini e nimi ante la ona li wawa e ona. kin la ona li ken toki e ni: nimi ni li suli nanpa wan.
+  \begin{example}
+    soweli ni li suwi \inex{a}!
+    
+    moku sina li seli \inex{a}!
+  \end{example}
+\end{definition}
+
+\begin{definition}{akesi}{nimi awen}
+  \inex{akesi} mute li jo e noka tu tu e palisa monsi, taso \inex{akesi} linja li lon li jo ala e noka. \inex{akesi} ale li jo e selo nasa. ona li ken ala kama seli tan insa. seli ona li tan suno taso.
+  \begin{example}
+    uta pi \inex{akesi} linja ni li ken ala ken moli e mi?
+    
+    \inex{akesi} akesi suwi pi jan San li moku e pipi lon tenpo poka. o kama pona o lukin!
+  \end{example}
+\end{definition}
+
+\begin{definition}{ala}{nimi ante}
+  ijo li ken lon. ante la ijo \inex{ala} li lon. nimi \inex{ala} li ante e kon pi nimi ante sama ni: nimi \inex{ala} li pini e nimi la lon ijo li weka. ijo li poka ala la ona li weka. ijo li tawa ala la ona li awen.
+  \begin{example}
+    lipu sina li ike la mi sona \inex{ala} e kon pi toki ni.
+    
+    mi lon sona nimi nanpa tu wan taso la mi wile \inex{ala} awen pali e lipu ni.
+  \end{example}
+\end{definition}
+
+\pagebreak
+
+\begin{definition}{alasa}{nimi tawa}
+  \inex{alasa} li open jo. kin la ona li ken ante e nimi pini tawa kon ni: ken sina taso la sina ijo. sina \inex{alasa} ijo la sina wile ijo. sina open ijo tan wile ni. taso sina ken pini ala ijo. kon kin pi nimi lukin li ken sama ni.
+  \begin{example}
+    o tawa tomo esun o \inex{alasa} e pan e sike waso.
+    
+    mi \inex{alasa} kama sona e toki pona taso ken mi li wawa ala.
+  \end{example}
+\end{definition}
+
+\begin{definition}{ale, ali}{nimi awen}
+  ijo \inex{ale} li toki e kulupu ijo ni: ijo li lon la ona li lon kulupu. sina ken kepeken nimi \inex{ale} sama ni: mi moku e kala \inex{ale}. toki ni la kala pi moku ala sina li lon ala. jan mute li kepeken nimi \inex{ali} kin. nimi tu ni li nimi wan. ante sitelen en ante kalama li tan ni taso: kalama pi nimi \inex{ale} li ken sama ike kalama pi nimi ala.
+  \begin{example}
+    sina \inex{ale} o! seme li lon?
+    
+    len \inex{ale} mi li jaki la mi o telo e ona.
+  \end{example}
+\end{definition}
+
+\begin{definition}{anpa}{nimi awen}
+  nimi \inex{anpa} li toki e wile sona ni: ijo li lon seme? ijo li lon \inex{anpa} la ona li lon poka noka li lon poka ma. ona li sama pipi linja tawa waso. nimi ni li ken toki e ni kin: ijo li wawa ala. sina \inex{anpa} e ijo la sina weka e wawa ona kepeken wawa sina.
+  \begin{example}
+    pakala! jaki soweli li lon \inex{anpa} pi len noka mi.
+    
+    jan Emili en jan Sijewa li utala! jan Sijewa o \inex{anpa} e jan Emili.
+  \end{example}
+\end{definition}
+\end{document}

@@ -1,0 +1,37 @@
+\documentclass[a4paper,11pt]{book}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{expl3}
+\expandafter\def\csname ver@l3regex.sty\endcsname{}
+\newenvironment{definition}[2]{ % word, category
+  \begin{description}
+  \item[#1] \textit{(#2)}:
+}{\end{description}}
+\NewEnviron{example}{
+  \\
+  \textbf{nimi lon toki:}
+  \begin{quote}
+    \begin{itshape}
+      \BODY a
+    \end{itshape}
+  \end{quote}
+}
+\title{sona nimi}
+\author{jan Salinsen}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\chapter{nimi pu}
+\begin{definition}{a}{nimi lili}
+  nimi \textit{a} li pini e nimi ante la ona li wawa e ona. kin la ona li ken toki e ni: nimi ni li suli nanpa wan.
+  \begin{example}
+    soweli ni li suwi a! \\
+    moku sina li seli a!
+  \end{example}
+\end{definition}
+
+\end{document}
