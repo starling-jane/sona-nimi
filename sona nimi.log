@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.8.5)  5 AUG 2023 21:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.8.5)  6 AUG 2023 17:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -165,19 +165,49 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--94
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--103
+Underfull \hbox (badness 10000) in paragraph at lines 102--107
 
  []
 
-[6] (./sona nimi.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--116
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 122--127
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--136
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--145
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--154
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 160--165
+
+ []
+
+[8] (./sona nimi.aux) ) 
 Here is how much of TeX's memory you used:
  780 strings out of 483183
  11442 string characters out of 5966293
- 234602 words of memory out of 5000000
+ 236602 words of memory out of 5000000
  15828 multiletter control sequences out of 15000+600000
  590882 words of font info for 52 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 23i,6n,24p,395b,238s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,6n,24p,561b,238s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/sha
 re/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/
 lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmbxi10.pfb></usr/share/t
@@ -185,10 +215,10 @@ exmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lm
 r12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fon
 ts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pf
 b></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb>
-Output written on "sona nimi.pdf" (6 pages, 189378 bytes).
+Output written on "sona nimi.pdf" (8 pages, 195343 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+ 68 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
