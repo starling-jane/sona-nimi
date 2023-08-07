@@ -2,34 +2,29 @@
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage{lmodern}
-%\usepackage{expl3}
-%\expandafter\def\csname ver@l3regex.sty\endcsname{}
 
 \newenvironment{definition}[2]{ % word, category
-  %\begin{minipage}{\dimexpr\textwidth}
+  \begin{minipage}{\dimexpr\textwidth}
   \begin{description}
-  %\item[#1] \textit{(#2)}:
   \item
     {\huge \textbf{#1}}
     {\Large \textit{(#2)}} \\
 }{
-  \end{description}%
-  %\end{minipage}%
+  \end{description}
+  \end{minipage}
 }
 
 \newenvironment{example}{ % put example sentences in here
   \item
   \textbf{nimi lon toki:}
-  
+
   \hfill
   \begin{minipage}{\dimexpr\textwidth-1cm}
-  %\begin{quote}
   \begin{itshape}
 }
 {
   \end{itshape}
   \end{minipage}
-  %\end{quote}
 }
 
 \newcommand{\inex}[1]{% use this to format the word when it appears in example sentences
@@ -73,7 +68,7 @@
   \end{example}
 \end{definition}
 
-\pagebreak
+%\pagebreak
 
 \begin{definition}{alasa}{nimi suli}
   \inex{alasa} li open jo. kin la ona li ken ante e nimi pini tawa kon ni: ken sina taso la sina ijo. sina \inex{alasa} ijo la sina wile ijo. sina open ijo tan wile ni. taso sina ken pini ala ijo. kon kin pi nimi lukin li ken sama ni.
@@ -115,7 +110,7 @@
   \end{example}
 \end{definition}
 
-\pagebreak
+%\pagebreak
 
 \begin{definition}{anu}{nimi lili}
   ijo \inex{anu} ijo ante la wan taso pi ijo tu ni li ken lon. ijo li ken. ijo ante kin li ken. taso tu li wile ala. wan taso li pona. kin la sina ken ante e toki sina tawa wile sona kepeken toki ni: ijo \inex{anu} seme? ni li sama toki ni: ijo ala ijo?
@@ -153,7 +148,7 @@
   \end{example}
 \end{definition}
 
-\pagebreak
+%\pagebreak
 
 \begin{definition}{esun}{nimi suli}
   ijo li pana tawa ijo ante la ijo ante ni li pana tawa ijo nanpa wan la pana tu ni li \inex{esun}. tenpo mute la kon pi nimi \inex{esun} li \inex{esun} mani tan ni: sina pana e mani tawa jan ante la ona li pana e ijo tawa sina. taso \inex{esun} ante kin pi mani ala li lon.
@@ -191,7 +186,7 @@
   \end{example}
 \end{definition}
 
-\pagebreak
+%\pagebreak
 
 \begin{definition}{insa}{nimi suli}
   nimi \inex{insa} li toki e wile sona ni: ijo li lon seme? ijo li lon \inex{insa} pi ijo ante la ijo ante li lon poka ale pi ijo nanpa wan li tomo anu poki tawa ona. sina lon \inex{insa} ijo la ken la sina ken ala weka tan \inex{insa} anu weka sina li pakala e ona sama ni: sina wile e \inex{insa} kili la o pakala e selo ona.
@@ -220,7 +215,7 @@
   \end{example}
 \end{definition}
 
-\pagebreak
+%\pagebreak
 
 \begin{definition}{jelo}{nimi suli}
   \inex{jelo} li kule. ko suwi pipi li \inex{jelo}. sijelo pi pipi ko ni kin li \inex{jelo} li pimeja. suno li lon sewi laso la ona li ken lukin walo taso tenpo suno li tawa pini la kule sewi li kama \inex{jelo} li kama loje.
