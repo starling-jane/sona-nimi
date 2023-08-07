@@ -9,8 +9,8 @@ this is my TODO list because i have TODO this stuff :3 the stuff that's not gonn
 ### nimi pu
 - [x] a 2023-08-06
 - [x] e 2023-08-06
-- [ ] i
-- [ ] j
+- [x] i
+- [x] j
 - [ ] k
 - [ ] l
 - [ ] m

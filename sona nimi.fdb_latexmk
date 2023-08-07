@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1691359053 "sona nimi.tex" "sona nimi.pdf" "sona nimi" 1691359053
+["pdflatex"] 1691445459 "sona nimi.tex" "sona nimi.pdf" "sona nimi" 1691445459
   "/etc/texmf/web2c/texmf.cnf" 1691268767 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1095.tfm" 1136768653 3584 929cdff2b7a8c11bd4d49fd68cb0ae70 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
@@ -49,11 +49,11 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1691268945 125915 807ff72f6023b33a59c427bfd156a3d1 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1691268839 4791331 60535eacbb8a26496a3d238f1abb6b87 ""
-  "sona nimi.aux" 1691359053 177 f8dd64036b6f59b43891952439220857 "pdflatex"
-  "sona nimi.tex" 1691359038 7158 3d4b018ceef0eb4a5d5222ffc06669db ""
-  "sona nimi.toc" 1691359053 52 663fa5bbf6b07c90cfab0dd2af39870b "pdflatex"
+  "sona nimi.aux" 1691445459 177 f8dd64036b6f59b43891952439220857 "pdflatex"
+  "sona nimi.tex" 1691445454 11637 2564d8194cdbe1d8ec01a2e06af6b4f6 ""
+  "sona nimi.toc" 1691445459 52 663fa5bbf6b07c90cfab0dd2af39870b "pdflatex"
   (generated)
-  "sona nimi.pdf"
-  "sona nimi.aux"
   "sona nimi.log"
+  "sona nimi.aux"
+  "sona nimi.pdf"
   "sona nimi.toc"
