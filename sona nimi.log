@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.8.5)  7 AUG 2023 18:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.8.5)  7 AUG 2023 19:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -75,55 +75,55 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 (./sona nimi.aux)
 \openout1 = `"sona nimi.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 36
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 37
 .
  (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3
-8.
+9.
 
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3
-8.
+9.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-38.
+39.
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-38.
+39.
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 38.
+(Font)              <12> on input line 39.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 38.
+(Font)              <8> on input line 39.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 38.
+(Font)              <6> on input line 39.
  [1
 
 
@@ -138,99 +138,44 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 ]
 Chapter 1.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 49.
+(Font)              <10.95> on input line 52.
 
-Overfull \hbox (52.98782pt too wide) in paragraph at lines 45--50
-[]\T1/lmr/bx/n/10.95 nimi lon toki:  $[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--50
+Underfull \hbox (badness 10000) in paragraph at lines 48--53
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--51
+Underfull \hbox (badness 10000) in paragraph at lines 46--54
 
  []
 
 
-Overfull \hbox (52.98782pt too wide) in paragraph at lines 54--59
-[]\T1/lmr/bx/n/10.95 nimi lon toki:  $[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--59
+Underfull \hbox (badness 10000) in paragraph at lines 57--62
 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 52--60
-[]$[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--60
+Underfull \hbox (badness 10000) in paragraph at lines 55--63
 
  []
 
 
-Overfull \hbox (52.98782pt too wide) in paragraph at lines 63--68
-[]\T1/lmr/bx/n/10.95 nimi lon toki:  $[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 63--68
+Underfull \hbox (badness 10000) in paragraph at lines 66--71
 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 61--69
-[]$[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--69
+Underfull \hbox (badness 10000) in paragraph at lines 64--72
 
  []
 
 
-Overfull \hbox (52.98782pt too wide) in paragraph at lines 74--79
-[]\T1/lmr/bx/n/10.95 nimi lon toki:  $[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--79
+Underfull \hbox (badness 10000) in paragraph at lines 77--82
 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 72--80
-[]$[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--80
-
- []
-
-
-Overfull \hbox (52.98782pt too wide) in paragraph at lines 83--88
-[]\T1/lmr/bx/n/10.95 nimi lon toki:  $[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--88
-
- []
-
-
-Overfull \hbox (17.0pt too wide) in paragraph at lines 81--89
-[]$[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--89
+Underfull \hbox (badness 10000) in paragraph at lines 75--83
 
  []
 
@@ -238,92 +183,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--89
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
-Overfull \hbox (17.0pt too wide) in paragraph at lines 90--93
-[]$[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 90--93
+Underfull \hbox (badness 10000) in paragraph at lines 86--91
 
  []
 
 
-Overfull \hbox (52.98782pt too wide) in paragraph at lines 96--101
-[]\T1/lmr/bx/n/10.95 nimi lon toki:  $[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--101
+Underfull \hbox (badness 10000) in paragraph at lines 84--92
 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 94--102
-[]$[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--102
+Underfull \hbox (badness 10000) in paragraph at lines 93--96
 
  []
 
 
-Overfull \hbox (52.98782pt too wide) in paragraph at lines 105--110
-[]\T1/lmr/bx/n/10.95 nimi lon toki:  $[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 105--110
+Underfull \hbox (badness 10000) in paragraph at lines 99--104
 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 103--111
-[]$[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 103--111
+Underfull \hbox (badness 10000) in paragraph at lines 97--105
 
  []
 
 
-Overfull \hbox (52.98782pt too wide) in paragraph at lines 116--121
-[]\T1/lmr/bx/n/10.95 nimi lon toki:  $[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--121
+Underfull \hbox (badness 10000) in paragraph at lines 108--113
 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 114--122
-[]$[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--122
+Underfull \hbox (badness 10000) in paragraph at lines 106--114
 
  []
 
 
-Overfull \hbox (52.98782pt too wide) in paragraph at lines 125--130
-[]\T1/lmr/bx/n/10.95 nimi lon toki:  $[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 125--130
+Underfull \hbox (badness 10000) in paragraph at lines 119--124
 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 123--131
-[]$[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 123--131
+Underfull \hbox (badness 10000) in paragraph at lines 117--125
 
  []
 
@@ -331,82 +231,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 123--131
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
-Overfull \hbox (52.98782pt too wide) in paragraph at lines 134--139
-[]\T1/lmr/bx/n/10.95 nimi lon toki:  $[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 134--139
+Underfull \hbox (badness 10000) in paragraph at lines 128--133
 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 132--140
-[]$[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 132--140
+Underfull \hbox (badness 10000) in paragraph at lines 126--134
 
  []
 
 
-Overfull \hbox (52.98782pt too wide) in paragraph at lines 143--148
-[]\T1/lmr/bx/n/10.95 nimi lon toki:  $[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 143--148
+Underfull \hbox (badness 10000) in paragraph at lines 137--142
 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 141--149
-[]$[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 141--149
+Underfull \hbox (badness 10000) in paragraph at lines 135--143
 
  []
 
 
-Overfull \hbox (52.98782pt too wide) in paragraph at lines 154--159
-[]\T1/lmr/bx/n/10.95 nimi lon toki:  $[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 154--159
+Underfull \hbox (badness 10000) in paragraph at lines 146--151
 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 152--160
-[]$[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 152--160
+Underfull \hbox (badness 10000) in paragraph at lines 144--152
 
  []
 
 
-Overfull \hbox (52.98782pt too wide) in paragraph at lines 163--168
-[]\T1/lmr/bx/n/10.95 nimi lon toki:  $[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 163--168
+Underfull \hbox (badness 10000) in paragraph at lines 157--162
 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 161--169
-[]$[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--169
+Underfull \hbox (badness 10000) in paragraph at lines 155--163
 
  []
 
@@ -414,165 +274,111 @@ Underfull \hbox (badness 10000) in paragraph at lines 161--169
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7]
-Overfull \hbox (52.98782pt too wide) in paragraph at lines 172--177
-[]\T1/lmr/bx/n/10.95 nimi lon toki:  $[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 172--177
+Underfull \hbox (badness 10000) in paragraph at lines 166--171
 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 170--178
-[]$[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 170--178
+Underfull \hbox (badness 10000) in paragraph at lines 164--172
 
  []
 
 
-Overfull \hbox (52.98782pt too wide) in paragraph at lines 181--186
-[]\T1/lmr/bx/n/10.95 nimi lon toki:  $[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 181--186
+Underfull \hbox (badness 10000) in paragraph at lines 175--180
 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 179--187
-[]$[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 179--187
+Underfull \hbox (badness 10000) in paragraph at lines 173--181
 
  []
 
 
-Overfull \hbox (52.98782pt too wide) in paragraph at lines 192--197
-[]\T1/lmr/bx/n/10.95 nimi lon toki:  $[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--197
+Underfull \hbox (badness 10000) in paragraph at lines 184--189
 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 190--198
-[]$[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 190--198
+Underfull \hbox (badness 10000) in paragraph at lines 182--190
 
  []
 
 
-Overfull \hbox (52.98782pt too wide) in paragraph at lines 201--206
-[]\T1/lmr/bx/n/10.95 nimi lon toki:  $[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 201--206
+Underfull \hbox (badness 10000) in paragraph at lines 195--200
 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 199--207
-[]$[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 199--207
+Underfull \hbox (badness 10000) in paragraph at lines 193--201
 
  []
 
 
-Overfull \hbox (52.98782pt too wide) in paragraph at lines 210--215
-[]\T1/lmr/bx/n/10.95 nimi lon toki:  $[]$
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 210--215
+ [8]
+Underfull \hbox (badness 10000) in paragraph at lines 204--209
 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 208--216
-[]$[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 208--216
-
- []
-
-[8]
-Overfull \hbox (52.98782pt too wide) in paragraph at lines 221--226
-[]\T1/lmr/bx/n/10.95 nimi lon toki:  $[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 221--226
+Underfull \hbox (badness 10000) in paragraph at lines 202--210
 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 219--227
-[]$[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 219--227
+Underfull \hbox (badness 10000) in paragraph at lines 213--218
 
  []
 
 
-Overfull \hbox (52.98782pt too wide) in paragraph at lines 230--235
-[]\T1/lmr/bx/n/10.95 nimi lon toki:  $[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--235
+Underfull \hbox (badness 10000) in paragraph at lines 211--219
 
  []
 
 
-Overfull \hbox (17.0pt too wide) in paragraph at lines 228--236
-[]$[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 228--236
+Underfull \hbox (badness 10000) in paragraph at lines 224--229
 
  []
 
-[9] (./sona nimi.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--230
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+Underfull \hbox (badness 10000) in paragraph at lines 233--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--239
+
+ []
+
+[10] (./sona nimi.aux) ) 
 Here is how much of TeX's memory you used:
  780 strings out of 483183
  11442 string characters out of 5966293
- 238602 words of memory out of 5000000
+ 237602 words of memory out of 5000000
  15828 multiletter control sequences out of 15000+600000
  590882 words of font info for 52 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 23i,6n,24p,585b,273s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/sha
-re/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/
-lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmbxi10.pfb></usr/share/t
-exmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lm
-r12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fon
-ts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pf
-b></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb>
-Output written on "sona nimi.pdf" (9 pages, 200449 bytes).
+ 23i,6n,24p,585b,271s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/sh
+are/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public
+/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmbxi10.pfb></usr/share/
+texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/l
+mr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fo
+nts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.p
+fb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb>
+Output written on "sona nimi.pdf" (10 pages, 201010 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
+ 74 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
